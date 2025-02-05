@@ -32,6 +32,6 @@ This test plan focuses on automating the core functionalities of the Automation 
 - **Test Cases Document**: Comprehensive test cases for functional and non-functional aspects.
 - **Test Execution Report**: Reports summarizing test results and defect logs.
 - **Bug Reports**: Documented defects discovered during testing.
-- **Summary Report**: A final report summarizing test execution results, including total test cases executed, passed, failed, and defect trends.
+- **Summary Report**: A final report summarizing test execution results, statuses and defect trends.
 
 ---
