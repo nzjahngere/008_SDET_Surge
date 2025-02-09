@@ -57,7 +57,7 @@ npx cypress open   # For interactive mode
 npx cypress run    # For headless execution
 ```
 
-###Usage
+### Usage
 Run specific test cases using Cypress CLI:
 ```bash
 # Run all tests
