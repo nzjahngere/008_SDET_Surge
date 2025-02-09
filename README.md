@@ -46,7 +46,7 @@ Follow these steps to set up and execute the test suite:
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-repo/Automation-Test-Store-Testing.git
+git clone https://github.com/nzjahngere/008_SDET_Surge
 cd Automation-Test-Store-Testing
 
 # Install dependencies
